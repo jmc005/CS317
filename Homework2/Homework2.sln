@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework2", "Homework2\Homework2.vcxproj", "{2923983B-9100-467E-94CE-54DA5E5A736D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quicksort", "Quicksort\Quicksort.vcxproj", "{ED8899FC-5D8B-4E12-B92D-9972113291F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2923983B-9100-467E-94CE-54DA5E5A736D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2923983B-9100-467E-94CE-54DA5E5A736D}.Debug|Win32.Build.0 = Debug|Win32
+		{2923983B-9100-467E-94CE-54DA5E5A736D}.Release|Win32.ActiveCfg = Release|Win32
+		{2923983B-9100-467E-94CE-54DA5E5A736D}.Release|Win32.Build.0 = Release|Win32
+		{ED8899FC-5D8B-4E12-B92D-9972113291F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED8899FC-5D8B-4E12-B92D-9972113291F3}.Debug|Win32.Build.0 = Debug|Win32
+		{ED8899FC-5D8B-4E12-B92D-9972113291F3}.Release|Win32.ActiveCfg = Release|Win32
+		{ED8899FC-5D8B-4E12-B92D-9972113291F3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
