@@ -49,3 +49,6 @@ vector<int> merge(vector<int> a, vector<int> b){
 	}
 	return c;
 }
+
+
+//i forgot the pencil this time
